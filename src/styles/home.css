@@ -71,7 +71,7 @@
   }
    /* Why choose our food part end */
 
-
+  /* Testimonial part start */
   .testimonial__subtitle {
     color: #df2020;
   }
@@ -84,7 +84,7 @@
     color: #777;
     line-height: 30px;
   }
-  
+  /* Testimonial part end */
 
 
 
@@ -158,12 +158,14 @@
     }
   /* Foods  Category part end */
 
+  /* Testimonial part start */
     .testimonial__subtitle {
       font-size: 1rem;
     }
     .testimonial__desc {
       font-size: 0.8rem;
     }
+  /* Testimonial part end */
   }
   @media only screen and (max-width: 576px) {
 
@@ -179,7 +181,7 @@
     .hero__service {
       justify-content: center;
     }
-      /* hero-section-part end */
+  /* hero-section-part end */
 
  /* Why choose our food part start */
     .why__choose-us {
