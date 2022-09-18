@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Container } from "reactstrap";
+import { Container, NavbarBrand } from "reactstrap";
 import logo from "../../assets/images/logo.png";
 import { NavLink, Link } from "react-router-dom";
 import "../../styles/header.css";
@@ -39,7 +39,7 @@ const Header = () => {
 
         {/* Logo Part */}
         <div className="logo">
-          <img src={logo} alt="logo" />
+        <NavbarBrand href="/"> <img src={logo} alt="logo" /> </NavbarBrand> 
           <h5>DIU FOOD</h5>
         </div>
 
