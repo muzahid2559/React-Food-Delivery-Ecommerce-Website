@@ -19,6 +19,8 @@ import foodCategoryImg03 from "../assets/images/bread.png";
 
 import ProductCard from "../components/UI/product-card/ProductCard";
 
+import whyImg from "../assets/images/location.png";
+
 import featureImg01 from "../assets/images/service-01.png";
 import featureImg02 from "../assets/images/service-02.png";
 import featureImg03 from "../assets/images/service-03.png";
@@ -81,6 +83,8 @@ const Home = () => {
 
   return (
     <Helmet title="Home">
+
+  {/*   hero-section-part start  */}
       <section>
         <Container>
           <Row>
@@ -133,10 +137,10 @@ const Home = () => {
           </Row>
         </Container>
       </section>
+  {/*   hero-section-part end  */}
 
 
-
-        {/* feature part */}
+  {/* feature part start*/}
       <section>
         <Container>
           <Row>
@@ -172,9 +176,9 @@ const Home = () => {
           </Row>
         </Container>
       </section>
+  {/* feature part end*/}
 
-
-
+  {/* Foods Category start*/}
       <section>
         <Container>
           <Row>
@@ -232,7 +236,69 @@ const Home = () => {
           </Row>
         </Container>
       </section>
+  {/* Foods Category end*/}
 
+  {/*Why choose our food part start */}
+      <section className="why__choose-us">
+        <Container>
+          <Row>
+            <Col lg="6" md="6">
+              <img src={whyImg} alt="why-OUR-FOOOD" className="w-100" />
+            </Col>
+
+            <Col lg="6" md="6">
+              <div className="why__our-food">
+                <h2 className="our__food-title mb-4">
+                  Why Choose<span> Our Foods?</span>
+                </h2>
+                <p className="our__food-description">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Dolorum, minus. Tempora reprehenderit a corporis velit,
+                  laboriosam vitae ullam, repellat illo sequi odio esse iste
+                  fugiat dolor, optio incidunt eligendi deleniti!
+                </p>
+
+                <ListGroup className="mt-4">
+                  <ListGroupItem className="border-0 ps-0">
+                    <p className=" choose__us-title d-flex align-items-center gap-2 ">
+                      <i class="ri-checkbox-circle-line"></i> Fresh and tasty
+                      foods
+                    </p>
+                    <p className="choose__us-desc">
+                      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                      Quia, voluptatibus.
+                    </p>
+                  </ListGroupItem>
+
+                  <ListGroupItem className="border-0 ps-0">
+                    <p className="choose__us-title d-flex align-items-center gap-2 ">
+                      <i class="ri-checkbox-circle-line"></i> Quality support
+                    </p>
+                    <p className="choose__us-desc">
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      Qui, earum.
+                    </p>
+                  </ListGroupItem>
+
+                  <ListGroupItem className="border-0 ps-0">
+                    <p className="choose__us-title d-flex align-items-center gap-2 ">
+                      <i class="ri-checkbox-circle-line"></i>Order from any
+                      location{" "}
+                    </p>
+                    <p className="choose__us-desc">
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      Qui, earum.
+                    </p>
+                  </ListGroupItem>
+                </ListGroup>
+              </div>
+            </Col>
+          </Row>
+        </Container>
+      </section>
+  {/*Why choose our food part end */}
+
+  
 
 
 
