@@ -14,6 +14,8 @@
     color: #777;
   }
   
+
+
   .food__category {
     background: #df2020;
     text-align: center;
@@ -34,6 +36,7 @@
     width: 20px;
     height: 20px;
   }
+  
   
   .foodBtnActive {
     background: #fff !important;
