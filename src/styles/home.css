@@ -37,7 +37,7 @@
     height: 20px;
   }
   
-  
+
   .foodBtnActive {
     background: #fff !important;
     border-radius: 5px;
@@ -79,6 +79,11 @@
     color: #777;
     line-height: 30px;
   }
+  
+
+
+
+
   
   @media only screen and (max-width: 768px) {
     .hero__content h5 {
