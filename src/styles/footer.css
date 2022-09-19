@@ -46,7 +46,11 @@
     color: #fff;
     border-radius: 50%;
   }
-  
+  .social__links p span  {
+    color: #212245;
+    font-weight: 600;
+   
+  }
   .copyright__text {
     font-size: 0.8rem;
     color: #df2020;
@@ -75,11 +79,20 @@
       font-size: 0.7rem;
       margin-bottom: 0;
     }
+    .copyright__text {
+      text-align: center; 
+     }
+   
+    .social__links  {
+      flex: none;
+      padding-right: 140px;
   }
+}
+  
   
   @media only screen and (max-width: 576px) {
     .copyright__text {
-      text-align: center;
+     text-align: center; 
     }
   
     .social__links p {
@@ -92,5 +105,8 @@
     .social__links span a {
       font-size: 0.7rem;
     }
+    .social__links  {
+      flex: none;
+      padding-right: 80px;
   }
-  
+}

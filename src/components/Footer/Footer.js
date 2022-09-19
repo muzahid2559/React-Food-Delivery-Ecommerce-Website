@@ -54,7 +54,7 @@ const Footer = () => {
         </Row>
 
         <Row className="mt-5">
-          <Col lg="6" md="6">
+          <Col lg="6" md="6" >
             <p className="copyright__text">
             &#169;Copyright - 2022, website made by Muzahidul Islam. All Rights
               Reserved.
@@ -62,7 +62,7 @@ const Footer = () => {
           </Col>
           <Col lg="4" md="6">
             <div className="social__links d-flex align-items-center gap-4 justify-content-end">
-              <p className="m-0">Follow: </p>
+              <p className="m-0"> <span>Follow :</span> </p>
               <span>
                 <a href="https://www.facebook.com/muzahid626">
                   <i class="ri-facebook-line"></i>
