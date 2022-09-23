@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/React-Food-Delivery-Ecommerce-Website/static/css/main.dc89f18c.css",
+    "main.js": "/React-Food-Delivery-Ecommerce-Website/static/js/main.39e88b4d.js",
+    "static/media/banner-02.jpg": "/React-Food-Delivery-Ecommerce-Website/static/media/banner-02.1d3252d35b78ec875fb7.jpg",
+    "static/media/remixicon.svg?t=1590207869815": "/React-Food-Delivery-Ecommerce-Website/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/network.png": "/React-Food-Delivery-Ecommerce-Website/static/media/network.7deb539d0303413c1704.png",
+    "static/media/remixicon.eot?t=1590207869815": "/React-Food-Delivery-Ecommerce-Website/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/React-Food-Delivery-Ecommerce-Website/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/location.png": "/React-Food-Delivery-Ecommerce-Website/static/media/location.c2a808618ecbf53c92bc.png",
+    "static/media/product_3.1.jpg": "/React-Food-Delivery-Ecommerce-Website/static/media/product_3.1.9c207cdf68c9700b11ce.jpg",
+    "static/media/product_2.2.jpg": "/React-Food-Delivery-Ecommerce-Website/static/media/product_2.2.4967c9cbe3fec366a31a.jpg",
+    "static/media/product_4.2.jpg": "/React-Food-Delivery-Ecommerce-Website/static/media/product_4.2.e82e43e0a3fc5dab999e.jpg",
+    "static/media/product_4.1.jpg": "/React-Food-Delivery-Ecommerce-Website/static/media/product_4.1.3c8ecc492220a3922731.jpg",
+    "static/media/hero.png": "/React-Food-Delivery-Ecommerce-Website/static/media/hero.c713694a7ba14badf2b0.png",
+    "static/media/product_3.2.jpg": "/React-Food-Delivery-Ecommerce-Website/static/media/product_3.2.ebcb16b50e4ef0060a5e.jpg",
+    "static/media/product_2.1.jpg": "/React-Food-Delivery-Ecommerce-Website/static/media/product_2.1.f15385546f60c8d0f0d9.jpg",
+    "static/media/remixicon.woff?t=1590207869815": "/React-Food-Delivery-Ecommerce-Website/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/product_01.jpg": "/React-Food-Delivery-Ecommerce-Website/static/media/product_01.6be97a612b580d595585.jpg",
+    "static/media/product_04.jpg": "/React-Food-Delivery-Ecommerce-Website/static/media/product_04.f7c5294d0481fb12cc4c.jpg",
+    "static/media/product_08.jpg": "/React-Food-Delivery-Ecommerce-Website/static/media/product_08.efc6c71968cf3ffe817a.jpg",
+    "static/media/remixicon.woff2?t=1590207869815": "/React-Food-Delivery-Ecommerce-Website/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/ava-1.jpg": "/React-Food-Delivery-Ecommerce-Website/static/media/ava-1.b105fe43e8bf62808d9f.jpg",
+    "static/media/ava-2.jpg": "/React-Food-Delivery-Ecommerce-Website/static/media/ava-2.5d5e42bfc8bc3622b556.jpg",
+    "static/media/ava-3.jpg": "/React-Food-Delivery-Ecommerce-Website/static/media/ava-3.1ef1ecba9db4ad9c12c8.jpg",
+    "static/media/bread(2).png": "/React-Food-Delivery-Ecommerce-Website/static/media/bread(2).dd485726262fc6f94474.png",
+    "static/media/logo.png": "/React-Food-Delivery-Ecommerce-Website/static/media/logo.2f9021c4ef5fe532038e.png",
+    "static/media/bread(3).png": "/React-Food-Delivery-Ecommerce-Website/static/media/bread(3).e4b9fdd91579778ae4cc.png",
+    "static/media/bread(1).png": "/React-Food-Delivery-Ecommerce-Website/static/media/bread(1).2fbb5c91c696e21efcb6.png",
+    "static/media/slick.svg": "/React-Food-Delivery-Ecommerce-Website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/React-Food-Delivery-Ecommerce-Website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/React-Food-Delivery-Ecommerce-Website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/React-Food-Delivery-Ecommerce-Website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/React-Food-Delivery-Ecommerce-Website/index.html",
+    "main.dc89f18c.css.map": "/React-Food-Delivery-Ecommerce-Website/static/css/main.dc89f18c.css.map",
+    "main.39e88b4d.js.map": "/React-Food-Delivery-Ecommerce-Website/static/js/main.39e88b4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc89f18c.css",
+    "static/js/main.39e88b4d.js"
+  ]
+}
